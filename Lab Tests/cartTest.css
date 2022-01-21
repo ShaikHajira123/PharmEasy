@@ -1,0 +1,134 @@
+
+        *{
+            font-family: Open Sans,sans-serif;
+        }
+        #nav{
+           display:flex;
+           background:rgb(16,132,126);
+       }
+       #nav>div{
+           
+           color:white;
+           margin:auto;
+       }
+       #nav>div:hover{
+           text-decoration: underline;
+       }
+       #cont{
+           display:flex;
+           justify-content: space-evenly;
+       }
+        #box1{
+            width:300px;
+            height:300px;
+            background-color: rgb(159, 117, 228);
+            border-radius: 10px;
+            margin-top:20px;
+        }
+       #containers{
+          display:grid;
+
+          grid-template-columns :1,800px;
+          grid-template-rows: repeat(42,180px);
+          gap:20px;
+            
+      }
+      #containers>div{
+      
+           width:500px;
+           margin-left:100px;
+           border:1px solid rgb(216, 214, 214);
+           border-radius: 10px;
+           font-family: Open Sans,sans-serif!important;
+           font-size: 16px;
+           font-weight: 400;
+           padding-left:80px;
+           padding-top:20px;
+       }
+      #containers>div:hover{
+            border-color: rgb(31, 150, 142);
+            box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+      }
+      #alert{
+          width:500px;
+          height:50px;
+          color:#fc8019;
+          background-color: #FFF8da;
+          margin-top:60px;
+      }
+       h3{color: #585858;
+     }
+       h1{
+         text-align:center;
+         text-decoration-line: underline;
+     }
+       #flex{
+        display:flex;
+         
+      }
+       #imgs{
+          width: 30px;
+          height:30px;
+          margin-top:20px;
+          margin-right:10px;
+       }
+       p{
+           margin-left:2px;
+           margin-right:300px;
+           margin-top:10px;
+           font-size:12px;
+           color:rgb(167, 163, 163);
+             font-weight:600;
+        }
+         #flex1{
+          display:flex;
+          margin-top:-10px;
+        }
+        
+        h4,h5{
+            margin-left:40px;
+            color: #585858;
+            margin-right:7px;
+             margin-top:10px;
+            font-weight:600;
+        }
+        #coupon{
+            font-size:30px;
+            padding:10px;
+            text-align: center;
+            margin-top:15px;
+            border-radius: 10px;
+        }
+        #apply{
+            font-size:20px;
+            background-color:rgb(115, 192, 163);
+            color:white;
+            padding:10px;
+            margin:10px;
+        }
+        li{
+            font-size:16px;
+            font-weight:700;
+        }
+        #par{
+            color:white;
+            font-weight:600;
+            font-size:22px;
+        }
+        ul{
+            color:white;
+            font-size:18px;
+        }
+        #box{
+            height:1200px;
+        }
+        h6{
+            font-size:20px;
+        }
+        
+        
+        input:focus{
+        color:rgb(235, 76, 28) ;
+        background-color: rgb(93, 211, 156);
+        }
+      
