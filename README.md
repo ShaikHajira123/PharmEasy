@@ -7,7 +7,12 @@ Group project developed in a week
  * Able to add and remove medicine in the cart.
  * Able to order medicine.
  * Able to get a discount from the coupon code.
- * Able to move to the checkout page.
+ * Able to move to the checkout page. 
+
+## Tech-Stack :
+ * HTML
+ * CSS
+ * JavaScript
 
 ## Home Page
 ![image](https://miro.medium.com/max/700/0*xqmQh6Oaw7fZo1d6.jpeg)
@@ -21,7 +26,7 @@ Group project developed in a week
 ## HealthCare Products
 ![image](https://miro.medium.com/max/700/0*ebW4wWiqfdT2CgLH.png)
 
-## Deploy link :
+## Deploy link : http://pharmeasyhajira.netlify.app/
 
 #### please have a look at our project :
 
