@@ -2,4 +2,7 @@
 PharmEasy is a e-commerce website where user can buy all the medicines , health products and book for all types of health tests.
 
 
-https://drive.google.com/file/d/1pBR4iR4Hos4nNF2bGP2cqSKgqCXQnvnf/view?usp=sharing
+
+
+https://user-images.githubusercontent.com/97529565/165749553-cda164b8-1b33-4645-9280-d8468c2b7a2d.mp4
+
